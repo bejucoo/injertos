@@ -13,7 +13,7 @@ Hecha de hilos, fibras crudas, que se tuercen con el sudor y la grasa de las man
 
 ## ***Cuerp_s Con Comba***
 
-### Fuente: [Mayor Mono Display - Regular](https://fonts.google.com/specimen/Major+Mono+Display)
+### Fuente: [Major Mono Display](https://fonts.google.com/specimen/Major+Mono+Display)
 
 Una tipografía constructivista y juguetona que busca un medio para construir una nueva visión de la realidad fuera de las formas tradicionales. Escogí esta tipografía para el injerto al encontrar en sus geometrías nuevas posibilidades para florecer y ver nuestro entorno. Aprovechar para hacer contenido artístico que nos invite a reflexionar sobre lo que nos rodea y sobre nuestro devenir, que actualmente se ve afectado por los estragos de la invisibilización e indiferencia ante la naturaleza.
 

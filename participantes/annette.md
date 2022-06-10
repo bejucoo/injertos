@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annette Rodríguez
+title: Annette Rodríguez Fiorillo
 permalink: /participantes/annette
 ---
 {% include fontsampler.html %}
@@ -21,7 +21,7 @@ Una tipografía constructivista y juguetona que busca un medio para construir un
 
 <div id="font_sampler"></div>
 
-{% include annette.html %}
+{% include font_annette.html %}
 
 &nbsp;
 

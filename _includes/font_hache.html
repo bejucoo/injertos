@@ -1,0 +1,22 @@
+<script type='text/javascript'>
+  var fonts = [{ 
+    name: "Aten", 
+    files: ["/injertos/participantes/hache/aten-webfont.woff", "/injertos/participantes/hache/aten-webfont.woff2"] 
+  }];
+  
+  var options = {
+    initialText: "Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω 3,14",
+    order: [["fontsize"], "tester"],
+    ui: {
+      fontsize: {
+        init: 50,
+        step: 1,
+        unit: "px",
+      }
+    }
+  };
+  
+  var sampler = new Fontsampler(document.getElementById("font_sampler"), fonts, options);
+  FontsamplerSkin(sampler);
+  sampler.init();
+</script>

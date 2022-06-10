@@ -1,0 +1,22 @@
+<script type='text/javascript'>
+  var fonts = [{ 
+    name: "Major Mono Display", 
+    files: ["/injertos/participantes/lina/jabin-boldswash2-webfont.woff", "/injertos/participantes/lina/jabin-boldswash2-webfont.woff2"] 
+  }];
+  
+  var options = {
+    initialText: "Sumercé - Mija - Chino",
+    order: [["fontsize"], "tester"],
+    ui: {
+      fontsize: {
+        init: 60,
+        step: 1,
+        unit: "px",
+      }
+    }
+  };
+  
+  var sampler = new Fontsampler(document.getElementById("font_sampler"), fonts, options);
+  FontsamplerSkin(sampler);
+  sampler.init();
+</script>

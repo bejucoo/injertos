@@ -1,9 +1,7 @@
 ---
 layout: page
 ---
-<video width="100%" autoplay loop>
-  <source src="imgs/injertos_cut.mp4" type="video/mp4">
-</video>
+![banner](imgs/cymbalaria_injertos_3.gif)
 
 ### Info
   - [Acerca del laboratorio](about)

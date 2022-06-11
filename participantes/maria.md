@@ -27,7 +27,7 @@ Este ejercicio de injertos tipográficos es la fusión de A.C.A.B, una tipograf�
 ### Fuente: [A.C.A.B Gótica](https://www.instagram.com/p/CNTysrCJiwk/)
 Creación propia desde lo análogo hasta lo digital. Estallido social Colombia 2021.
 
-![sabroso](./acab_vivirSabroso.jpg)
+![sabroso](/injertos/participantes/assets_maria/acab_vivirSabroso.jpg)
 
 ### Planta: [Arboloco (Smallanthus pyramidalis)](https://colombia.inaturalist.org/taxa/508085-Smallanthus-pyramidalis)
 Ayuda en la restauración de los suelos y tiene condiciones óptimas para que se establezcan diversas especies de flora y fauna. Tiene propiedades medicinales como cicatrizante, antiinflamatorio y analgésico.

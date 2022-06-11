@@ -1,7 +1,13 @@
+<style>
+  table, th, td, tr {
+    border: none
+  }
+</style>
+
 <script type='text/javascript'>
   var fonts = [{ 
     name: "Major Mono Display", 
-    files: ["/injertos/participantes/annette/majormonodisplay-regular.woff", "/injertos/participantes/annette/majormonodisplay-regular.woff2"] 
+    files: ["/injertos/participantes/assets_annette/majormonodisplay-regular.woff", "/injertos/participantes/assets_annette/majormonodisplay-regular.woff2"] 
   }];
   
   var options = {
@@ -19,4 +25,7 @@
   var sampler = new Fontsampler(document.getElementById("font_sampler"), fonts, options);
   FontsamplerSkin(sampler);
   sampler.init();
+  
+  var lightbox_1 = new SimpleLightbox('.gallery_1 a');
+  var lightbox_2 = new SimpleLightbox('.gallery_2 a');
 </script>

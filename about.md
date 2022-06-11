@@ -6,6 +6,8 @@ permalink: /about/
 
 Injertos Tipográficos fue un laboratorio realizado en Bogotá durante mayo de 2022 gracias a la [Beca Plataforma Bogotá en Arte, Ciencia y Tecnología 2021](https://plataformabogota.gov.co/).
 
+Estuvo a cargo de [Pierre Puentes Gómez](https://bejuco.co/).
+
 El objetivo era crear un espacio de producción gráfica que utilizara tecnologías informáticas (redes neuronales) y se nutriera del intercambio de conocimiento entre la biología, la ecología, la taxonomía y la tipografía. Además, se buscó descubrir la diversidad y la importancia de las plantas que existen en la ciudad de Bogotá, así como resaltar la riqueza visual y conceptual de los glifos, los caracteres y los signos en general.
 
 El resultado principal fue la creación de varios Injertos Tipográficos (la unión de una planta y una letra para crecer como un solo organismo) haciendo uso de la herramienta de inteligencia artificial [Shape-MatchingGAN](https://github.com/VITA-Group/ShapeMatchingGAN).
@@ -98,3 +100,7 @@ La última sesión del laboratorio se desarrolló en las instalaciones de Plataf
 ![12](https://static.observableusercontent.com/files/6ec372e306d3d3381fb0b8c482bf94b85c4373ed4e2ff9b2b7b5ebfa071220dcef076549b53df444a59d134473bdf6f8dec8cc4328c7d56e8ee4d4c3baf55f76)
 
 ![13](https://static.observableusercontent.com/files/a42d1b106dc14421ad8f922437758099f00705f3474a4d0eb6e87f5437afee491145220c04e7c1ffa4a6fdd0fed3c2f31f2414156a252c52371e7d3dda417222)
+
+&nbsp;
+
+[⬅️](/injertos/)

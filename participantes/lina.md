@@ -4,6 +4,7 @@ title: Lina González Rodríguez
 permalink: /participantes/lina
 ---
 {% include fontsampler.html %}
+{% include lightbox.html %}
 
 **[website](https://lmgr-21.wixsite.com/linagonzalez/)**
 
@@ -26,18 +27,136 @@ Luego, en el taller de Relámpago, en el proceso de meditar la palabra y la comp
 Finalmente, en la IA, GANs y otras tecnologías, encontré la herramienta para unir todos los significados y conceptos recolectados hasta el momento.
 
 ### Fuente: [Jabin Typeface](http://www.fridamedrano.com/jabin.html) - Bold Swash 2
-Después de una ardua exploración de tipografías, escogí Jabin Typeface - Bold Swash 2, diseñada por Frida Medrano; una tipografía que trae consigo una sensación de antaño, y una elegancia que expresa una soberanía; una sabiduría plasmada en papiros. Ese era el tipo de elogios que quería transmitir con sus trazos: el poder y la semejanza de dos abuelas creadoras de vida; ambas concibiendo, a puño limpio, una serie de ecosistemas y relaciones complejas. 
 
 &nbsp;
 
 <div id="font_sampler"></div>
 
-{% include font_lina.html %}
-
 &nbsp;
 
+Después de una ardua exploración de tipografías, escogí Jabin Typeface - Bold Swash 2, diseñada por Frida Medrano; una tipografía que trae consigo una sensación de antaño, y una elegancia que expresa una soberanía; una sabiduría plasmada en papiros. Ese era el tipo de elogios que quería transmitir con sus trazos: el poder y la semejanza de dos abuelas creadoras de vida; ambas concibiendo, a puño limpio, una serie de ecosistemas y relaciones complejas. 
+
 ### Planta: [Secuoya Roja (Sequoia sempervirens)](https://colombia.inaturalist.org/taxa/47372-Sequoia-sempervirens)
+
+![sequoia](/injertos/participantes/assets_lina/sequoia_original.jpg)
+
 En cuanto a la especie natural, escogí por textura y color, unas hojas marrones de una Sequoia Sempervirens (conocida como Secuoya Roja o Secuoya de California), un árbol exótico proveniente de EEUU, cuya característica es la longevidad, la humedad, la altura y su necesidad de crecer en grupo para resguardarse de los ventarrones o las heladas de los cerros de nuestra ciudad. A partir de la definición del estilo (especie fotografiada) y la tipografía, hice una serie de pruebas en el entrenamiento, cambiando el tamaño de la fuente o la composición, el fondo, el número de ephocs (pasos) o el número de imágenes entrenadas, para conseguir un estilo más detallado que contuviera un concepto prehistórico y la transformación de un organismo (hojas) a formas más simples de materia, para darle paso a otras nuevas existencias (generaciones). 
 
 ### Injerto:
 Dicho lo anterior, por fin nace Mija, una relatoría emocional entre dos épocas y generaciones diferentes; voces que contienen palabras típicas, transformadas o apropiadas por sus autoras. Mija es el llamado a perderse entre las palabras heredadas y no dejarlas extraviarse en nuestro propio lenguaje.
+
+<div style="text-align:center; max-width:100%;">
+  <video width="100%" height="500" controls loop>
+    <source src="/injertos/participantes/assets_lina/sequoia_m.mp4" type="video/mp4"/>
+  </video>
+</div>
+
+&nbsp;
+
+<div class="gallery_1">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_lina/f-a.jpg">
+            <img src="/injertos/participantes/assets_lina/f-a.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_lina/f-i.jpg">
+            <img src="/injertos/participantes/assets_lina/f-i.jpg">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_lina/f-j.jpg">
+            <img src="/injertos/participantes/assets_lina/f-j.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_lina/f-m1.png">
+            <img src="/injertos/participantes/assets_lina/f-m1.png">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### Otros experimentos:
+
+<div class="gallery_2">
+  <table>
+    <tr>
+      <td>
+        <a href="/injertos/participantes/assets_lina/flor-original.jpg">
+          <img src="/injertos/participantes/assets_lina/flor-original.jpg">
+        </a>
+      </td>
+      <td>
+        <a href="/injertos/participantes/assets_lina/FlorB1.jpg">
+          <img src="/injertos/participantes/assets_lina/FlorB1.jpg">
+        </a>
+      </td>
+      <td>
+        <a href="/injertos/participantes/assets_lina/FlorB3.jpg">
+          <img src="/injertos/participantes/assets_lina/FlorB3.jpg">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/injertos/participantes/assets_lina/hojas-original.jpg">
+          <img src="/injertos/participantes/assets_lina/hojas-original.jpg">
+        </a>
+      </td>
+      <td>
+        <a href="/injertos/participantes/assets_lina/HojasC4.jpg">
+          <img src="/injertos/participantes/assets_lina/HojasC4.jpg">
+        </a>
+      </td>
+      <td>
+        <a href="/injertos/participantes/assets_lina/HojasC5.jpg">
+          <img src="/injertos/participantes/assets_lina/HojasC5.jpg">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/injertos/participantes/assets_lina/musgo-original.jpg">
+          <img src="/injertos/participantes/assets_lina/musgo-original.jpg">
+        </a>
+      </td>
+      <td>
+        <a href="/injertos/participantes/assets_lina/MusgoB4.jpg">
+          <img src="/injertos/participantes/assets_lina/MusgoB4.jpg">
+        </a>
+      </td>
+      <td>
+        <a href="/injertos/participantes/assets_lina/MusgoB9.jpg">
+          <img src="/injertos/participantes/assets_lina/MusgoB9.jpg">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/injertos/participantes/assets_lina/pasto-original.jpg">
+          <img src="/injertos/participantes/assets_lina/pasto-original.jpg">
+        </a>
+      </td>
+      <td>
+        <a href="/injertos/participantes/assets_lina/Pasto2.jpg">
+          <img src="/injertos/participantes/assets_lina/Pasto2.jpg">
+        </a>
+      </td>
+      <td>
+        <a href="/injertos/participantes/assets_lina/Pasto5.jpg">
+          <img src="/injertos/participantes/assets_lina/Pasto5.jpg">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+{% include scripts_lina.html %}

@@ -4,6 +4,7 @@ title: Isabella Viracachá López
 permalink: /participantes/isabella
 ---
 {% include fontsampler.html %}
+{% include lightbox.html %}
 
 **[@diviracacha](https://www.instagram.com/diviracacha/)**
 
@@ -23,22 +24,83 @@ Siguiendo mi interés por abordar el tema de la ansiedad decidí hacer un injert
 Al participar en los diferentes talleres del laboratorio tuve un acercamiento al reconocimiento de especies vegetales que se encuentran en Bogotá y tomando como referencia el material teórico [“Un herbario del Bronx: vida y memoria entre las ruinas” (2020)](https://issuu.com/patrimoniobogota/docs/agenda_bronx_web_) y el sitio web de [Naturalista Colombia](https://colombia.inaturalist.org/), realicé una selección de 5 plantas con atributos medicinales que pueden ayudar a contrarrestar algunos síntomas que se generan al estar en un estado de ansiedad.
 
   - [Sauco (Sambucus nigra)](https://colombia.inaturalist.org/taxa/765394-Sambucus-nigra): De uso tópico, se realiza un baño frío con las hojas y las flores para relajar y calmar los nervios o inquietud, tiene aplicaciones en el tratamiento de trastornos digestivos, dolor de estómago y del hígado.
+  ![sauco](/injertos/participantes/assets_isabella/sauco_original.png)
+  
   - [Manzanilla (Matricaria chamomilla)](https://colombia.inaturalist.org/taxa/77965-Matricaria-chamomilla): En infusión ayuda a aliviar dolores digestivos y tiene propiedades relajantes.
+  ![manzanilla](/injertos/participantes/assets_isabella/manzanilla_original.png)
+  
   - [Hierba Cana (Senecio vulgaris)](https://colombia.inaturalist.org/taxa/53211-Senecio-vulgaris): De uso tópico, se realiza una mezcla caliente por baño e inhalación con la planta entera, para tratar problemas respiratorios, aliviar los nervios y el dolor de estómago.
+  ![hierbacana](/injertos/participantes/assets_isabella/senecio_original.png)
+  
   - [Fresa Silvestre (Fragaria vesca)](https://colombia.inaturalist.org/taxa/50298-Fragaria-vesca): En infusión caliente ayuda a los problemas estomacales, intestinales, a aliviar los nervios y mezclada con aloe vera ayuda a controlar la gastritis.
+  ![fresa](/injertos/participantes/assets_isabella/fresa_original.png)
+  
   - [Diente de León (Taraxacum officinale)](https://colombia.inaturalist.org/taxa/47602-Taraxacum-officinale): En infusión ayuda a los problemas estomacales, intestinales y a calmar los mareos.
+  ![dientedeleon](/injertos/participantes/assets_isabella/dienteleon_original.png)
   
 Al ilustrarlas, quería centrarme en las partes de las plantas que se utilizan para las recetas medicinales.; cada una de las letras que constituyen la palabra Miedo se realizó un injerto diferente utilizando las 5 plantas.
 
 ### Fuente: [ITC Clearface Std Bold](https://www.myfonts.com/pack/421320)
-Elegí utilizar esta fuente debido a su fácil legibilidad y por su grosor. Buscaba trabajar con una tipografía que pudiera resaltar las texturas de cada una de las ilustraciones de las plantas al crear los injertos. A su vez, posee un diseño curvo que  termina por dar a la fuente una calidez  que contrasta con la palabra misma que está escrita.
 
 &nbsp;
 
 <div id="font_sampler"></div>
 
-{% include font_isabella.html %}
+&nbsp;
+
+Elegí utilizar esta fuente debido a su fácil legibilidad y por su grosor. Buscaba trabajar con una tipografía que pudiera resaltar las texturas de cada una de las ilustraciones de las plantas al crear los injertos. A su vez, posee un diseño curvo que  termina por dar a la fuente una calidez  que contrasta con la palabra misma que está escrita.
+
+### Injertos:
+
+<div style="text-align:center; max-width:100%;">
+  <video width="100%" height="500" controls loop>
+    <source src="/injertos/participantes/assets_isabella/sauco.mp4" type="video/mp4"/>
+  </video>
+  <br><br>
+  <video width="100%" height="500" controls loop>
+    <source src="/injertos/participantes/assets_isabella/manzanilla.mp4" type="video/mp4"/>
+  </video>
+  <br><br>
+  <video width="100%" height="500" controls loop>
+    <source src="/injertos/participantes/assets_isabella/senecio.mp4" type="video/mp4"/>
+  </video>
+  <br><br>
+  <video width="100%" height="500" controls loop>
+    <source src="/injertos/participantes/assets_isabella/fresasilvestre.mp4" type="video/mp4"/>
+  </video>
+</div>
 
 &nbsp;
 
-### Injerto:
+<div class="gallery_1">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_isabella/miedo_1.png">
+            <img src="/injertos/participantes/assets_isabella/miedo_1.png">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_isabella/dientedeleon_1.png">
+            <img src="/injertos/participantes/assets_isabella/dientedeleon_1.png">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_isabella/fresa_0.png">
+            <img src="/injertos/participantes/assets_isabella/fresa_0.png">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_isabella/sauco_2.png">
+            <img src="/injertos/participantes/assets_isabella/sauco_2.png">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+{% include scripts_isabella.html %}

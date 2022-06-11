@@ -3,6 +3,8 @@ layout: page
 title: María Rojas Muñoz
 permalink: /participantes/maria
 ---
+{% include lightbox.html %}
+
 **[@tanmariamiamor](https://www.instagram.com/tanmariamiamor/)**
 
 Sin siempre, sin nunca; con el aquí y el ahora. Sin calificaciones; con descripciones. Sin verdades absolutas; con meras opiniones. 
@@ -25,11 +27,56 @@ María es muchas Marías.
 Este ejercicio de injertos tipográficos es la fusión de A.C.A.B, una tipografía creada para materializar la impotencia que hoy se fusiona con Smallanthus pyramidalis en representación de acciones de territorio y memoria. Bogotá fue la ciudad que vió caer 7 de las 80 vidas a manos de la represión policial en el marco del paro nacional que vivimos en Colombia el pasado 2021 (Indepaz, 21 julio 2021, Observatorio de ddhh, conflictividades y paz).  Ese estallido social cosecha hoy uno de los procesos políticos con mayor participación activa en el país, hoy estamos a puertas de cosechar y comenzar a reparar, sanar y construir un país para Vivir Sabroso. Este es un aquelarre de emociones y pensamientos doce meses después de la horrible noche, un canto plástico de la tierra donde la sangre de nuestros muertos abonó las raíces de los árboles que hoy nos dan sombra, día y noche el sol les alumbra, el agua les moja, el viento les mueve y en su canción claman justicia, justicia, justicia.  Esta oda por el ir, por el ser, por el movimiento, por la vida, muy por encima de la muerte, -sin pretender romantizarla, por supuesto-, es un grito eterno como la vida: ¡Por nuestros muertos, ni un minuto de silencio!
 
 ### Fuente: [A.C.A.B Gótica](https://www.instagram.com/p/CNTysrCJiwk/)
-Creación propia desde lo análogo hasta lo digital. Estallido social Colombia 2021.
 
 ![sabroso](/injertos/participantes/assets_maria/acab_vivirSabroso.jpg)
 
+Creación propia desde lo análogo hasta lo digital. Estallido social Colombia 2021.
+
 ### Planta: [Arboloco (Smallanthus pyramidalis)](https://colombia.inaturalist.org/taxa/508085-Smallanthus-pyramidalis)
+
+![arboloco](/injertos/participantes/assets_maria/arboloco_original.jpg)
+
 Ayuda en la restauración de los suelos y tiene condiciones óptimas para que se establezcan diversas especies de flora y fauna. Tiene propiedades medicinales como cicatrizante, antiinflamatorio y analgésico.
 
 ### Injerto:
+
+<div style="text-align:center; max-width:100%;">
+  <video width="100%" height="500" controls loop>
+    <source src="/injertos/participantes/assets_maria/acab_k.mp4" type="video/mp4"/>
+  </video>
+</div>
+
+&nbsp;
+
+<div class="gallery_1">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_maria/ACAB A_0.png">
+            <img src="/injertos/participantes/assets_maria/ACAB A_0.png">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_maria/ACAB H_0.png">
+            <img src="/injertos/participantes/assets_maria/ACAB H_0.png">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_maria/ACAB P_0.png">
+            <img src="/injertos/participantes/assets_maria/ACAB P_0.png">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_maria/ACAB S_0-2.png">
+            <img src="/injertos/participantes/assets_maria/ACAB S_0-2.png">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+{% include scripts_maria.html %}

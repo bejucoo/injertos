@@ -75,13 +75,13 @@ Y es que eso deberíamos hacer en la ciudad, “combar” la existencia para ver
   </table>
 </div>
 
-## Otros experimentos:
+### Otros experimentos:
 
 <div class="gallery_2">
   <table>
     <tr>
       <td colspan="3">
-        Gloxinia (Digitalis purpurea)
+        Gloxinia (Sinningia speciosa)
       </td>
     </tr>
     <tr>

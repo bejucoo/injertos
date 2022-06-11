@@ -4,9 +4,7 @@ title: Injertos Tipográficos
 permalink: /about/
 ---
 
-Injertos Tipográficos fue un laboratorio realizado en Bogotá durante mayo de 2022 gracias a la [Beca Plataforma Bogotá en Arte, Ciencia y Tecnología 2021](https://plataformabogota.gov.co/).
-
-Estuvo a cargo de [Pierre Puentes Gómez](https://bejuco.co/).
+Injertos Tipográficos fue un laboratorio realizado en Bogotá durante mayo de 2022 gracias a la [Beca Plataforma Bogotá en Arte, Ciencia y Tecnología 2021](https://plataformabogota.gov.co/). Estuvo a cargo de [Pierre Puentes Gómez](https://bejuco.co/).
 
 El objetivo era crear un espacio de producción gráfica que utilizara tecnologías informáticas (redes neuronales) y se nutriera del intercambio de conocimiento entre la biología, la ecología, la taxonomía y la tipografía. Además, se buscó descubrir la diversidad y la importancia de las plantas que existen en la ciudad de Bogotá, así como resaltar la riqueza visual y conceptual de los glifos, los caracteres y los signos en general.
 
@@ -15,6 +13,7 @@ El resultado principal fue la creación de varios Injertos Tipográficos (la uni
 El laboratorio abarcó 8 sesiones donde se desarrollaron varias actividades que buscaban darle a los participantes conocimientos técnicos y teóricos que alimentarán la conceptualización y posterior generación de sus injertos.
 
 ---
+### Fotografías por [Nandy Parra](https://www.instagram.com/nandyparra/).
 
 ## Sesión 1 | 04.05.2022
 

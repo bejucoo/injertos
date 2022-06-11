@@ -1,0 +1,30 @@
+<style>
+  table, th, td, tr {
+    border: none
+  }
+</style>
+
+<script type='text/javascript'>
+  var fonts = [{ 
+    name: "Fredoka One", 
+    files: ["/injertos/participantes/assets_salome/fredokaone-regular.woff", "/injertos/participantes/assets_salome/fredokaone-regular.woff2"] 
+  }];
+  
+  var options = {
+    initialText: "MILPA",
+    order: [["fontsize"], "tester"],
+    ui: {
+      fontsize: {
+        init: 90,
+        step: 1,
+        unit: "px",
+      }
+    }
+  };
+  
+  var sampler = new Fontsampler(document.getElementById("font_sampler"), fonts, options);
+  FontsamplerSkin(sampler);
+  sampler.init();
+  
+  var lightbox_1 = new SimpleLightbox('.gallery_1 a');
+</script>

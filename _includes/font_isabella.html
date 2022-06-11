@@ -1,0 +1,22 @@
+<script type='text/javascript'>
+  var fonts = [{ 
+    name: "Major Mono Display", 
+    files: ["/injertos/participantes/assets_isabella/ITCClearfaceStd-Bold.woff", "/injertos/participantes/assets_isabella/ITCClearfaceStd-Bold.woff2"] 
+  }];
+  
+  var options = {
+    initialText: "Miedo",
+    order: [["fontsize"], "tester"],
+    ui: {
+      fontsize: {
+        init: 90,
+        step: 1,
+        unit: "px",
+      }
+    }
+  };
+  
+  var sampler = new Fontsampler(document.getElementById("font_sampler"), fonts, options);
+  FontsamplerSkin(sampler);
+  sampler.init();
+</script>

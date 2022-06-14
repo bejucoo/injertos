@@ -20,4 +20,4 @@ layout: page
 
 &nbsp; 
 
-[Plataforma Bogotá](https://plataformabogota.gov.co/) | [bejuco](https://bejuco.co/)
+[Plataforma Bogotá](https://plataformabogota.gov.co/) | [bejuco](https://bejuco.co/) @ 2022

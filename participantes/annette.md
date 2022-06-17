@@ -36,7 +36,7 @@ Hecha de hilos, fibras crudas, que se tuercen con el sudor y la grasa de las man
 
 --- 
 
-# ***Cuerp_s Con Comba***
+# Cuerp_s Con Comba
 
 ### Fuente: [Major Mono Display](https://fonts.google.com/specimen/Major+Mono+Display)
 

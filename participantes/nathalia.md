@@ -35,7 +35,7 @@ Egresada de la Licenciatura en Ciencias Sociales y profesional en Estudios Liter
 
 ---
 
-## Nomen-Nescio
+# Nomen-Nescio
 
 Expresión latina para nombrar a aquellos de quienes se desconoce su nombre. La palabra al nombrar, dota de contenido. Da memoria, identidad, un peso intangible. Colombia es un país obligado al olvido. De enero a marzo (2022) más de 1420 personas han desaparecido. Durante el Estallido social (2021) expertos en Desaparición Forzada hablaban de 379 personas de las que se perdió el rastro. En nuestro particular país los muertos no todos llevan una identidad aunque la tuvieran y como una muestra de cuidado por esos cuerpos sin nombre, otros les otorgan sepultura y la nominación NN ¡No sé tu nombre!
 

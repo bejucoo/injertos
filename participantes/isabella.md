@@ -35,7 +35,7 @@ Comunicar lo que siento, y lo que me atraviesa al estar ansiosa, es no estar sol
 
 ---
 
-## Miedo
+# Miedo
 
 Siguiendo mi interés por abordar el tema de la ansiedad decidí hacer un injerto con la palabra “Miedo” ya que como nos cuenta José Antonio Marina en la Anatomía del Miedo (2013), “El miedo pertenece al sistema defensivo de la naturaleza (...) es la ansiedad provocada por la anticipación del peligro.” Teniendo esto en mente, me atrevería a entender la ansiedad como un miedo constante.
 

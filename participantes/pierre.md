@@ -31,7 +31,7 @@ Diseñador interesado en medios interactivos, gráfica y producción audiovisual
 
 ---
 
-## Kalanchoe crisinata
+# Kalanchoe crisinata
 
 ### Planta: [Kalanchoe crenata](https://colombia.inaturalist.org/taxa/519852-Kalanchoe-crenata)
 

@@ -39,7 +39,7 @@ María es muchas Marías.
 
 ---
 
-## A.C.A.B 2022 – Resist{ir} es flore{ser}
+# A.C.A.B 2022 – Resist{ir} es flore{ser}
 
 - *Del latín resistire, significa “tolerar, combatir una fuerza”.*
 - *Del latín sistere, significa “tomar posición, clavarse en un lugar”.*

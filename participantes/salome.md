@@ -31,7 +31,7 @@ Programadora con alma de diseñadora e ínfulas de poeta.
 
 ---
 
-## Milpa
+# Milpa
 
 ¿Qué tienen en común las plantas y la tipografía? ¿Por qué hacer un injerto entre ellas? A lo largo de los recorridos que hicimos por el Parque Nacional como parte del taller, me sorprendió mi ignorancia sobre las plantas que nos rodean, las que vemos a diario y que solo hacen parte del paisaje, seres verdes y desconocidos. Quizá, también, era lo mismo que sucedía con las tipografías, ignoradas en su belleza de formas y uniones, en su objetivo mágico de darnos la palabra escrita, aquello que dio forma a nuestro mundo.
 

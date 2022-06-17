@@ -36,7 +36,7 @@ Tecnóloga multimedia e Ingeniera de las Artes Digitales con énfasis en Animaci
 
 ---
 
-## Mija
+# Mija
 
 Nace de una recolección de significados y conceptos en cada uno de los procesos del laboratorio y con el objetivo de que todos fueran, en lo posible, materiales propios, caseros, territoriales o artesanales.
 

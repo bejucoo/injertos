@@ -10,6 +10,25 @@ permalink: /participantes/pierre
 
 Diseñador interesado en medios interactivos, gráfica y producción audiovisual. He entendido y vivido el diseño como un proceso de experimentación guiado principalmente por la curiosidad y una oportunidad para explorar diferentes medios y técnicas. Trabajo principalmente en la producción de herramientas, instalaciones y piezas audiovisuales para proyectos artísticos, performativos y de investigación.
 
+<div class="gallery_1">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_pierre/pierre_1.jpg">
+            <img src="/injertos/participantes/assets_pierre/pierre_1.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_pierre/pierre_2.jpg">
+            <img src="/injertos/participantes/assets_pierre/pierre_2.jpg">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 ---
 
 ## Kalanchoe crisinata
@@ -42,7 +61,7 @@ Kalanchoe es un género de suculentas que, según Lucile Allorge, es posible que
 
 &nbsp;
 
-<div class="gallery_1">
+<div class="gallery_2">
   <table>
     <tbody>
       <tr>

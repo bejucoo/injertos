@@ -10,6 +10,30 @@ permalink: /participantes/annette
 
 Hecha de hilos, fibras crudas, que se tuercen con el sudor y la grasa de las manos de mis ancestr_s. Diseñadora y danzante, con estudios complementarios en artes plásticas. Curiosa por las expresiones danzarias desde cada subjetividad corpórea, interesada en disponer los textiles, la gráfica y el baile como herramientas para la manifestación personal y/o colectiva. Fascinada por los oficios locales y su relación con los saberes tradicionales ancestrales.
 
+<div class="gallery_1">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_annette/annette_1.jpg">
+            <img src="/injertos/participantes/assets_annette/annette_1.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_annette/annette_2.jpg">
+            <img src="/injertos/participantes/assets_annette/annette_2.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_annette/annette_3.jpg">
+            <img src="/injertos/participantes/assets_annette/annette_3.jpg">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 --- 
 
 ## ***Cuerp_s Con Comba***
@@ -44,7 +68,7 @@ Y es que eso deberíamos hacer en la ciudad, “combar” la existencia para ver
 
 &nbsp;
 
-<div class="gallery_1">
+<div class="gallery_2">
   <table>
     <tbody>
       <tr>
@@ -77,7 +101,7 @@ Y es que eso deberíamos hacer en la ciudad, “combar” la existencia para ver
 
 ### Otros experimentos:
 
-<div class="gallery_2">
+<div class="gallery_3">
   <table>
     <tr>
       <td colspan="3">

@@ -14,6 +14,25 @@ Mi trabajo  gira en torno a la ilustración, el diseño editorial y  las técnic
 
 Comunicar lo que siento, y lo que me atraviesa al estar ansiosa, es no estar sola en mi proceso. Es abrirme como persona y como artista desde mis experiencias.
 
+<div class="gallery_1">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_isabella/isabella_1.jpg">
+            <img src="/injertos/participantes/assets_isabella/isabella_1.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_isabella/isabella_2.jpg">
+            <img src="/injertos/participantes/assets_isabella/isabella_2.jpg">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 ---
 
 ## Miedo
@@ -72,7 +91,7 @@ Elegí utilizar esta fuente debido a su fácil legibilidad y por su grosor. Busc
 
 &nbsp;
 
-<div class="gallery_1">
+<div class="gallery_2">
   <table>
     <tbody>
       <tr>

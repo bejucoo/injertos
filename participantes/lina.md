@@ -10,6 +10,30 @@ permalink: /participantes/lina
 
 Tecnóloga multimedia e Ingeniera de las Artes Digitales con énfasis en Animación Digital y Efectos Visuales. Fiel devota y admiradora de todos los campos quiméricos conectados con el diseño. Soy una rama de la historia y el lenguaje de dos abuelas campesinas, una morena y una trigueña, ambas con palabras, semillas y contextos diferentes, sin embargo, entre ires y venires de sus polinizadores, soy su punto intermedio, soy un lenguaje de sus historias y sus palabras.
 
+<div class="gallery_1">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_lina/lina_1.jpg">
+            <img src="/injertos/participantes/assets_lina/lina_1.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_lina/lina_2.jpg">
+            <img src="/injertos/participantes/assets_lina/lina_2.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_lina/lina_3.jpg">
+            <img src="/injertos/participantes/assets_lina/lina_3.jpg">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 ---
 
 ## Mija
@@ -53,7 +77,7 @@ Dicho lo anterior, por fin nace Mija, una relatoría emocional entre dos épocas
 
 &nbsp;
 
-<div class="gallery_1">
+<div class="gallery_2">
   <table>
     <tbody>
       <tr>
@@ -86,7 +110,7 @@ Dicho lo anterior, por fin nace Mija, una relatoría emocional entre dos épocas
 
 ### Otros experimentos:
 
-<div class="gallery_2">
+<div class="gallery_3">
   <table>
     <tr>
       <td>

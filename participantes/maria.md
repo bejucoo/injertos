@@ -13,6 +13,30 @@ Mujer, comunicadora gráfica, especialista en diseño editorial, amante de los t
 
 María es muchas Marías.
 
+<div class="gallery_1">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_maria/maria_1.jpg">
+            <img src="/injertos/participantes/assets_maria/maria_1.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_maria/maria_2.jpg">
+            <img src="/injertos/participantes/assets_maria/maria_2.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_maria/maria_3.jpg">
+            <img src="/injertos/participantes/assets_maria/maria_3.jpg">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 ---
 
 ## A.C.A.B 2022 – Resist{ir} es flore{ser}
@@ -48,7 +72,7 @@ Ayuda en la restauración de los suelos y tiene condiciones óptimas para que se
 
 &nbsp;
 
-<div class="gallery_1">
+<div class="gallery_2">
   <table>
     <tbody>
       <tr>

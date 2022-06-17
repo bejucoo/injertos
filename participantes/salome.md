@@ -10,6 +10,25 @@ permalink: /participantes/salome
 
 Programadora con alma de diseñadora e ínfulas de poeta.
 
+<div class="gallery_1">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_salome/salome_1.jpg">
+            <img src="/injertos/participantes/assets_salome/salome_1.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_salome/salome_2.jpg">
+            <img src="/injertos/participantes/assets_salome/salome_2.jpg">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 ---
 
 ## Milpa
@@ -44,7 +63,7 @@ Para la tipografía, escogí Fredoka One, pues me pareció que sus formas ovalad
 
 &nbsp;
 
-<div class="gallery_1">
+<div class="gallery_2">
   <table>
     <tbody>
       <tr>

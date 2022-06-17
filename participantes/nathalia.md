@@ -9,6 +9,30 @@ permalink: /participantes/nathalia
 
 Egresada de la Licenciatura en Ciencias Sociales y profesional en Estudios Literarios. Me apoyo en la interdisciplinariedad para crear, producir y trabajar. Siempre quise ser artista. Mi padre dijo: “el arte es para burgueses”. Le declaré la guerra. Me interesa la fotografía y la literatura como medios de exploración a preguntas por los discursos de poder; sus contradicciones y fugas. Desde allí escudriño mi propia experiencia de vida, las paradojas que me llevan a construir visualmente relatos sobre el campo político, la memoria y el habitar el territorio/cuerpo. No comulgo con la fotografía ni la escritura sólo como registro, más bien como simulacro. Como la vida. Espero ganar la guerra.
 
+<div class="gallery_1">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_nathalia/nathalia_1.jpg">
+            <img src="/injertos/participantes/assets_nathalia/nathalia_1.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_nathalia/nathalia_2.jpg">
+            <img src="/injertos/participantes/assets_nathalia/nathalia_2.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_nathalia/nathalia_3.jpg">
+            <img src="/injertos/participantes/assets_nathalia/nathalia_3.jpg">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 ---
 
 ## Nomen-Nescio
@@ -41,7 +65,7 @@ Así, fuentes y plantas, traducen para mí el interés por entender la relación
 
 ### Otros experimentos:
 
-<div class="gallery_1">
+<div class="gallery_2">
   <table>
     <tbody>
       <tr>

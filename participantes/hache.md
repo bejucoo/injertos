@@ -14,6 +14,30 @@ La curiosidad es un elemento guía en la búsqueda de nuevos aprendizajes y al u
 
 Las artes y la ciencia de entrada han tenido una relación estrecha a lo largo del tiempo, sin embargo, la sociedad actual busca la sobre-especialización haciendo que los científicos y los artistas se aparten en su diario quehacer. La búsqueda artística está implícita en el ser humano, hace parte de la conciencia y hasta me atrevería a decir que de su biología. Entonces, el reencuentro de las artes y las ciencias, (ojala todo mediado por la tecnología) es el objetivo al cual debería acudir la humanidad para así encontrarnos de nuevo con esa parte sensible que ha acallado el moderno estilo de vida.
 
+<div class="gallery_1">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="/injertos/participantes/assets_hache/hache_1.jpg">
+            <img src="/injertos/participantes/assets_hache/hache_1.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_hache/hache_2.jpg">
+            <img src="/injertos/participantes/assets_hache/hache_2.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="/injertos/participantes/assets_hache/hache_3.jpg">
+            <img src="/injertos/participantes/assets_hache/hache_3.jpg">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 ---
 ## </Injertos>
 
@@ -45,7 +69,7 @@ El alfabeto griego es uno de los más difundidos por el mundo entero y no por qu
 
 &nbsp;
 
-<div class="gallery_1">
+<div class="gallery_2">
   <table>
     <tbody>
       <tr>

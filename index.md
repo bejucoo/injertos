@@ -1,14 +1,15 @@
 ---
 layout: page
 ---
-![banner](imgs/cymbalaria_injertos_3.gif)
+![banner](imgs/banner.gif)
 
-### Info
+### Información
   - [Acerca del laboratorio](about)
-  - [GitHub Repo](https://github.com/bejucoo/Injertos-Tipograficos)
-  - [Shape-MatchingGAN](https://williamyang1991.github.io/projects/ICCV2019/SMGAN.html)
+  - [Laboratorista: Pierre Puentes Gómez](participantes/pierre)
+  - [Repositorio en GitHub](https://github.com/bejucoo/Injertos-Tipograficos)
+  - [Evento de socialización]()
   
-### Participantes
+### Resultados de los participantes
   - [Annette Rodríguez Fiorillo](participantes/annette)
   - [Hugo Trujillo Martínez](participantes/hache)
   - [Io Salomé Agudo Angulo](participantes/salome)
@@ -16,8 +17,9 @@ layout: page
   - [Lina González Rodríguez](participantes/lina)
   - [María Rojas Muñoz](participantes/maria)
   - [Nathalia Cruz Sierra](participantes/nathalia)
-  - [Pierre Puentes Gómez](participantes/pierre)
+
+### [Publicación impresa]()
 
 &nbsp; 
 
-[Plataforma Bogotá](https://plataformabogota.gov.co/) | [bejuco](https://bejuco.co/) @ 2022
+![logos](imgs/logos.png)

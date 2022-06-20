@@ -5,9 +5,11 @@ layout: page
 
 ### Información
   - [Acerca del laboratorio](about)
-  - [Laboratorista: Pierre Puentes Gómez](participantes/pierre)
+  - [Publicación impresa]()
   - [Repositorio en GitHub](https://github.com/bejucoo/Injertos-Tipograficos)
   - [Evento de socialización]()
+  - [Bibliografía y archivo audiovisual](archive)
+  - [Laboratorista: Pierre Puentes Gómez](participantes/pierre)
   
 ### Resultados de los participantes
   - [Annette Rodríguez Fiorillo](participantes/annette)
@@ -17,8 +19,6 @@ layout: page
   - [Lina González Rodríguez](participantes/lina)
   - [María Rojas Muñoz](participantes/maria)
   - [Nathalia Cruz Sierra](participantes/nathalia)
-
-### [Publicación impresa]()
 
 &nbsp; 
 

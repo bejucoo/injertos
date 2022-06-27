@@ -39,7 +39,7 @@ Las artes y la ciencia de entrada han tenido una relación estrecha a lo largo d
 </div>
 
 ---
-# </Injertos>
+# <Magnolia Fractal>
 
 Cualquier organismo biológico posee un código interno basado en cuatro caracteres, cuatro letras A, G, T, C; por otro lado para desarrollar software se necesitan una serie de códigos que de forma organizada le dictan a la computadora lo que debe hacer, osea un algoritmo que inicia con palabras más o menos entendibles por cualquier persona y que después será codificado en binario. Entonces, algo que de manera recursiva aparece como una interfaz para podernos comunicar con la tecnología o con el mapa de lo biológico son las letras, las letras como códigos en sí mismos que se auto representan, letras como un fractal que son a la vez significado y significante, letras que son el microuniverso que compone un macrouniverso de letras.
 

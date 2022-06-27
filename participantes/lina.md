@@ -183,4 +183,6 @@ Dicho lo anterior, por fin nace Mija, una relatoría emocional entre dos épocas
   </table>
 </div>
 
+<img src="/injertos/participantes/assets_lina/lina_ilustracion.png" alt="ilustracion_lina" style="border: 8px solid #000;">
+
 {% include scripts_lina.html %}

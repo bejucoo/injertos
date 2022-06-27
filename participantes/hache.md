@@ -100,4 +100,8 @@ El alfabeto griego es uno de los más difundidos por el mundo entero y no por qu
   </table>
 </div>
 
+### Otros Experimentos:
+
+<img src="/injertos/participantes/assets_hache/hache_ilustracion.png" alt="ilustracion_hache" style="border: 8px solid #000;">
+
 {% include scripts_hache.html %}

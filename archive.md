@@ -34,10 +34,11 @@ Archivo de material recomendado durante el laboratorio Injertos Tipográficos.
 |Documental|[Aluna - An Ecological Warning by the Kogi People](https://www.youtube.com/watch?v=ftFbCwJfs1I)|Alan Ereira|
 |Documental|[¿Pueden las raíces salvar el mundo?](https://www.youtube.com/watch?v=tof3JZRLvPw)|Stefanie Fleischmann|
 |Documental|[Los mosuo de China Donde dominan las mujeres](https://www.youtube.com/watch?v=tq_qHn83zOY)|Mathieu Schwartz|
-|Laboratorio|[Maleza](https://www.instagram.com/malezajardin/)||
+|Laboratorio|[Maleza (Medellín)](https://www.instagram.com/malezajardin/)||
 |Proyecto gráfico|[Grieta Fértil](https://www.instagram.com/grieta_fertil/)|María Espíndola|
 |Sitio web|[Naturalista Colombia](https://colombia.inaturalist.org/)|California Academy of Sciences y National Geographic Society|
 |Película|Taming the Garden|Salomé Jashi|
 |Obra de arte|Lilies of the Field|Dor Guez|
 |Obra de arte|Catastrophe|Dor Guez|
 |Exposición|[Critical Zones: Observatory for Earthly Politics](https://critical-zones.zkm.de/#!/)|ZKM Karlsruhe|
+|Libro|Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants|Robin Wall Kimmerer|

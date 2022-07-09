@@ -4,11 +4,11 @@ layout: page
 ![banner](imgs/banner.gif)
 
 ### Información
-  - [Acerca del laboratorio](about)
-  - [Publicación impresa]()
+  - [Acerca del laboratorio](acerca)
+  - [Publicación impresa](publicacion)
   - [Repositorio en GitHub](https://github.com/bejucoo/Injertos-Tipograficos)
-  - [Evento de socialización]()
-  - [Bibliografía y archivo audiovisual](archive)
+  - [Evento de socialización](socializacion)
+  - [Bibliografía y archivo audiovisual](archivo)
   - [Laboratorista: Pierre Puentes Gómez](participantes/pierre)
   
 ### Resultados de los participantes

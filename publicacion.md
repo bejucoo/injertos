@@ -14,5 +14,5 @@ En producción.
 ## Versión digital:
 
 <div>
-  <iframe src="/injertos/publicacion/injertos_tipograficos_web.pdf#zoom=50%#toolbar=0" title="webviewer" frameborder="0" width="100%" height="800"></iframe>
+  <iframe src="/injertos/publicacion/injertos_tipograficos.pdf#zoom=50%#toolbar=0" title="webviewer" frameborder="0" width="100%" height="800"></iframe>
 </div>

@@ -9,7 +9,7 @@ Esta publicación recopila lo que sucedió durante el mes de laboratorio, expone
 - **Impresión y encuadernación:** [La Bruja Riso](https://www.instagram.com/labrujariso/) en Medellín, Colombia.
 
 ## Versión impresa
-En producción.
+Próximamente se subirá documentación.
 
 ## Versión digital:
 
